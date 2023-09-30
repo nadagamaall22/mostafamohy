@@ -1,2 +1,2 @@
 we need arduino
-we need camera
+no need for camera
